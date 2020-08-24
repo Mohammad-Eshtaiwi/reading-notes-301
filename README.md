@@ -6,3 +6,4 @@
 | --------------------- | :--------------------------------------------------------------------------------------------------: |
 | responsive web design | [responsive web design](https://mohammad-eshtaiwi.github.io/reading-notes-301/responsive-web-design) |
 | jQuery                |                [jQuery](https://mohammad-eshtaiwi.github.io/reading-notes-301/jQuery)                |
+| mustache and flexbox  |  [mustache and flexbox](https://mohammad-eshtaiwi.github.io/reading-notes-301/mustache-and-flexbox)  |
