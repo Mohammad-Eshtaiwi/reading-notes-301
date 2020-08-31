@@ -11,3 +11,4 @@
 | Heroku                       |                       [Heroku](https://mohammad-eshtaiwi.github.io/reading-notes-301/heroku)                       |
 | nodeJs                       |                       [nodeJs](https://mohammad-eshtaiwi.github.io/reading-notes-301/nodeJs)                       |
 | REST                         |                         [REST](https://mohammad-eshtaiwi.github.io/reading-notes-301/REST)                         |
+| SQL                          |                          [SQL](https://mohammad-eshtaiwi.github.io/reading-notes-301/SQL)                          |
