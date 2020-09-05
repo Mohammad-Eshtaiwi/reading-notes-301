@@ -13,5 +13,4 @@
 | REST                         |                         [REST](https://mohammad-eshtaiwi.github.io/reading-notes-301/REST)                         |
 | SQL                          |                          [SQL](https://mohammad-eshtaiwi.github.io/reading-notes-301/SQL)                          |
 | refactoring                  |                  [refactoring](https://mohammad-eshtaiwi.github.io/reading-notes-301/refactoring)                  |
-| refactoring                  |                  [refactoring](https://mohammad-eshtaiwi.github.io/reading-notes-301/refactoring)                  |
 | EJS                          |                          [EJS](https://mohammad-eshtaiwi.github.io/reading-notes-301/EJS)                          |
