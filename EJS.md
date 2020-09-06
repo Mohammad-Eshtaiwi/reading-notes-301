@@ -30,3 +30,7 @@ let ejs = require('ejs');
 let people = ['geddy', 'neil', 'alex'];
 let html = ejs.render('<%= people.join(", "); %>', {people: people});
 ```
+
+# EJS Partials
+
+Partials is a way to create reusable components that can be simply included in any page for example the navbar is the same in every page also the footer
