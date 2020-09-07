@@ -14,3 +14,4 @@
 | SQL                          |                          [SQL](https://mohammad-eshtaiwi.github.io/reading-notes-301/SQL)                          |
 | refactoring                  |                  [refactoring](https://mohammad-eshtaiwi.github.io/reading-notes-301/refactoring)                  |
 | EJS                          |                          [EJS](https://mohammad-eshtaiwi.github.io/reading-notes-301/EJS)                          |
+| update delete                |                [update delete](https://mohammad-eshtaiwi.github.io/reading-notes-301/update-delete)                |
