@@ -16,3 +16,4 @@
 | EJS                          |                          [EJS](https://mohammad-eshtaiwi.github.io/reading-notes-301/EJS)                          |
 | update delete                |                [update delete](https://mohammad-eshtaiwi.github.io/reading-notes-301/update-delete)                |
 | normalization                |                [normalization](https://mohammad-eshtaiwi.github.io/reading-notes-301/normalization)                |
+| article                      |                      [article](https://mohammad-eshtaiwi.github.io/reading-notes-301/article)                      |
